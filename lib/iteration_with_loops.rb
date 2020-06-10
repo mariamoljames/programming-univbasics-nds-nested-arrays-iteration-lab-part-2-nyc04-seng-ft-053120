@@ -15,5 +15,5 @@ def find_min_in_nested_arrays(src)
       new_arr<<min
       count+=1
     end
-    puts new_arr
+    new_arr
 end
